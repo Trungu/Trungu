@@ -6,7 +6,7 @@ Welcome to my profile. I'm Thien, an engineering student with an interest in AI 
 - Experimenting with fun software projects on the side
 - Research in computer science education and engineering
 
-I also do music on the side! I play piano and violin and occasionally write some music of my own. ◕‿◕
+I also do music on the side! 🎻 & 🎹
 
 Thanks for viewing my profile!
 
