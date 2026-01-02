@@ -1,4 +1,14 @@
-## Hi there 👋
+## Howdy / Xin chào ✨
+
+Welcome to my profile. I'm Thien, an engineering student with an interest in AI and computing for social good.
+
+- Currently working on developing a foundation in AI / ML principles
+- Experimenting with fun software projects on the side
+- Research in computer science education and engineering
+
+I also do music on the side! I play piano and violin and was part of my high school's orchestra for 3 years ◕‿◕
+
+Thanks for viewing my profile!
 
 <!--
 **Trungu/Trungu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
