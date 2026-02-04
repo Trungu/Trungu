@@ -1,14 +1,26 @@
 ## Howdy | Xin chào ✨
 
-Welcome to my profile. I'm Thien, an engineering student with an interest in AI and computing for social good.
+hi. I'm Thien. a 19-yr old engineering student.
 
-- Currently working on developing a foundation in AI / ML principles.
-- Experimenting with fun software projects.
-- Research in computer science education and engineering.
+\
+my journey has been rather [ unorthodox ]. 
 
-I also do music on the side! 🎻 & 🎹
+i spent the majority of high school dabbling in the music world. my days were filled with violin practice and transcibing pieces
 
-Thanks for viewing my profile!
+then coding came along the way, and so did a few trips across the country for some hackathons. 
+
+suddenly, I found myself in the tech world. now, i am currently studying computer science. AI/ML, HCI space
+
+my interests are in developing and improving software for social good. in particular, I am researching how AI-based tools and platforms can have a positive
+impact on the educational experience of engineering students.
+
+my hobbies are
+* playing the piano and improvising tunes
+* late night study sessions on caffeine
+* consuming sci-fi and dystopian literature/games
+
+thank you for taking your time to read my profile. i try not to yap too much
+
 
 ---
 
