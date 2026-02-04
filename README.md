@@ -7,9 +7,9 @@ my journey has been rather [ unorthodox ].
 
 i spent the majority of high school dabbling in the music world. my days were filled with violin practice and transcibing pieces
 
-then coding came along the way, and so did a few trips across the country for some hackathons. 
+then coding came along the way...  and so did a few trips across the country for some hackathons. 
 
-suddenly, I found myself in the tech world. now, i am currently studying computer science. AI/ML, HCI space
+suddenly I found myself in the tech world. now, i am currently studying computer science. AI/ML, HCI space
 
 my interests are in developing and improving software for social good. in particular, I am researching how AI-based tools and platforms can have a positive
 impact on the educational experience of engineering students.
@@ -17,7 +17,8 @@ impact on the educational experience of engineering students.
 my hobbies are
 * playing the piano and improvising tunes
 * late night study sessions on caffeine
-* consuming sci-fi and dystopian literature/games
+* studying cognitive and psychological phenomena 
+* consuming sci-fi and dystopian literature & games
 
 thank you for taking your time to read my profile. i try not to yap too much
 
