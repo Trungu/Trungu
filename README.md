@@ -1,5 +1,7 @@
 ## Howdy | Xin chào ✨
 
+<img width="100px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZma2pkaHEybnl6eWtpZzc4N2oxcGp6enZveXFlY3I4Z2I3ZHViZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jDa4r7bK1k00g/giphy.gif" />
+
 hi. I'm Thien. a 19-yr old engineering student.
 
 \
