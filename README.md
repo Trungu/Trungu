@@ -20,15 +20,6 @@ suddenly I found myself in the tech world. now, i am currently studying computer
 my interests are in developing and improving software for social good. in particular, I am researching how AI-based tools and platforms can have a positive
 impact on the educational experience of engineering students.
 
-my hobbies are
-* playing the piano and improvising tunes
-* late night study sessions on caffeine
-* studying cognitive and psychological phenomena 
-* consuming sci-fi and dystopian literature & games
-
-thank you for taking your time to read my profile. i try not to yap too much
-
-
 ---
 
 ### My Tech Stack
