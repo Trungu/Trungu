@@ -1,25 +1,5 @@
 ## Howdy | Xin chào ✨
 
-
-hi. I'm Thien. a 19-yr old engineering student.
-
-\
-my journey has been rather unorthodox.
-
-i spent the majority of high school dabbling in the music world. my days were filled with violin practice and transcibing pieces
-
-then coding came along the way...  and so did a few trips across the country for some hackathons. 
-
-suddenly I found myself in the tech world. now, i am currently studying computer science. AI/ML, HCI space
-
-my interests are in developing and improving software for social good. in particular, I am researching how AI-based tools and platforms can have a positive
-impact on the educational experience of engineering students.
-
-
-🔭 current projects I'm working on ...
-- **PRTS :** an AI-enabled discord bot designed for collaborative workflows and personalized assistance
-
-
 ---
 
 ### My Tech Stack
